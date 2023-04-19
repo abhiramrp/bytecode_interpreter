@@ -1,6 +1,6 @@
 package virtualmachine;
 
-import interpreter.bytecode.*;
+import bytecode.*;
 
 import java.util.ArrayList;
 import java.util.HashMap;

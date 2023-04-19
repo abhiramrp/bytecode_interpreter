@@ -1,6 +1,6 @@
-package interpreter.bytecode;
+package bytecode;
 
-import interpreter.virtualmachine.VirtualMachine;
+import virtualmachine.VirtualMachine;
 
 public class StoreCode extends ByteCode {
     private int offset;

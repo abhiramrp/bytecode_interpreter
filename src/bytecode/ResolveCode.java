@@ -1,4 +1,5 @@
-package interpreter.bytecode;
+package bytecode;
+
 
 public abstract class ResolveCode extends ByteCode {
     public abstract void setAddr(int addr);

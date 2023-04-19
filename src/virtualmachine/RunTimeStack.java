@@ -1,4 +1,4 @@
-package interpreter.virtualmachine;
+package virtualmachine;
 
 import java.util.ArrayList;
 import java.util.Arrays;

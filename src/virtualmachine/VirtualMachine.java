@@ -1,7 +1,7 @@
 package virtualmachine;
 
-import interpreter.bytecode.ByteCode;
-import interpreter.bytecode.DumpCode;
+import bytecode.ByteCode;
+import bytecode.DumpCode;
 
 import java.util.Stack;
 
