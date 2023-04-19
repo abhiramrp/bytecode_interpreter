@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d0465211-a43b-47ce-b42f-2e2adfb40804" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bytecode/BopCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bytecode/BopCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bytecode/ByteCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bytecode/ByteCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bytecode/CallCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bytecode/CallCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bytecode/DumpCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bytecode/DumpCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bytecode/FalseBranchCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bytecode/FalseBranchCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/virtualmachine/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/virtualmachine/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/virtualmachine/RunTimeStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/virtualmachine/RunTimeStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/virtualmachine/VirtualMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/virtualmachine/VirtualMachine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +36,14 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Interpreter">
+    <configuration name="Interpreter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interpreter" />
+      <module name="bytecode_interpreter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="bytecode_interpreter" />
@@ -54,6 +53,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Interpreter" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -66,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681865475311</updated>
-      <workItem from="1681865476454" duration="1429000" />
+      <workItem from="1681865476454" duration="1602000" />
     </task>
     <servers />
   </component>
