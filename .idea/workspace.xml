@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d0465211-a43b-47ce-b42f-2e2adfb40804" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ByteCodeLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ByteCodeLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x_files/factorial.x.cod" beforeDir="false" afterPath="$PROJECT_DIR$/x_files/factorial.x.cod" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,18 +30,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Interpreter">
     <configuration name="Interpreter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Interpreter" />
       <module name="bytecode_interpreter" />
+      <option name="PROGRAM_PARAMETERS" value="x_files/factorial.x.cod" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -67,6 +70,8 @@
       <option name="presentableId" value="Default" />
       <updated>1681865475311</updated>
       <workItem from="1681865476454" duration="1602000" />
+      <workItem from="1681867224705" duration="258000" />
+      <workItem from="1681876881536" duration="1657000" />
     </task>
     <servers />
   </component>

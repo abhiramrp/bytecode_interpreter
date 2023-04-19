@@ -1,0 +1,3 @@
+# ByteCode Interpreter
+
+The following is an interpreter for mock language X, which is a simplified version of Java. It is responsible for bytecodes created from a program file. Using the concepts of encapsulation, Stacks, data structures, etc, the bytecodes are executed in an order of their operations, codes, and offsets. The interpreter and virtual machine will run together to processing and executing the bytecodes.

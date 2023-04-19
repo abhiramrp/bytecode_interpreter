@@ -62,7 +62,7 @@ public final class ByteCodeLoader {
 
 
         try {
-            ByteCode bytecode = (ByteCode) (Class.forName("interpreter.bytecode."+byteClass).getDeclaredConstructor().newInstance());
+            ByteCode bytecode = (ByteCode) (Class.forName("bytecode."+byteClass).getDeclaredConstructor().newInstance());
 
             bytecode.init(argName);
             byteCodeList.add(bytecode);
